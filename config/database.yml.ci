@@ -2,7 +2,7 @@ test:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: daily-report-api_test
+  database: daily-report-api_test_yarukoto_list
   username: postgres
   password: postgres
   host: localhost
