@@ -42,7 +42,6 @@ group :development, :test do
   gem "factory_bot_rails" # 追加
   gem "faker" # 追加
   gem "rspec-rails" # 追加
-
 end
 
 group :development do
